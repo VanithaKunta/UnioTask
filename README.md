@@ -8,4 +8,4 @@ Ex: A user signed up using "user1" and "user123" values.
     The values in database are 1. user1 and user123.
     When a second user signs up using "user2" and "user1234",
       the fields must be updated in the database.
-      Hence the values in database should be 1. user2 and user11234.
+      Hence the values in database should be 1. user2 and user1234.
